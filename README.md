@@ -1,6 +1,6 @@
-# Frontend Mentor - Clipboard landing page solution
+#  Workit landing page solution
 
-This is a solution to the [Clipboard landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/clipboard-landing-page-5cc9bccd6c4c91111378ecb9). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the Workit Landing page design|Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 
 ## Table of contents
@@ -13,9 +13,8 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
 
 ## Overview
 
-- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/clipboard-landing-page-bE-u9ZdLW7)
 
-- Live Site URL: [live site URL](https://kolade1024.github.io/Clipboard_landing_page/)
+- Live Site URL: [live site URL](https://kolade1024.github.io/workit_landing_page/)
 
 
 ### Built with
@@ -24,17 +23,13 @@ This is a solution to the [Clipboard landing page challenge on Frontend Mentor](
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
-- SVG
+- Curved Backgrounds
 
 ### What I learned
 
 Got more understanding about responsive web design.
 
 Understood how to add background images and icons to an image
-
-Learnt about em and rem from kelvin powell.
-
-Added hamburger menu.
 
 Implemented Darkmode.
 
@@ -46,12 +41,10 @@ Responsive Web Design
 
 Getting good with Git
 
-SVG
 
 
 
 ## Author
 
 - Website - [Oluwafemi Kolade](https://www.your-site.com)
-- Frontend Mentor - [@Kolade1024](https://www.frontendmentor.io/profile/Kolade1024)
 - Twitter - [@KOLADE1024](https://www.twitter.com/KOLADE1024)
