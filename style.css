@@ -405,11 +405,11 @@ transform: translateY(-10px);
     }
 }
 
- /* DARKMODE */
+ /* DARKMODE 
  @media (prefers-color-scheme:dark)
  {
   :root{
-     /* COLORS */
+     /* COLORS 
      --H-BG:rgb(28, 9, 41);
      --BG2:rgba(58, 9, 79, 0.235);
      --BTN:rgb(105, 255, 163);
@@ -435,4 +435,4 @@ main section{
     color:whitesmoke;
 }
 
- }
+ } */
