@@ -75,6 +75,7 @@ header::after{
     background-color: var(--H-BG);
     transform: scale(1.6);
     z-index: -1;
+    overflow-x: hidden;
 }
 
 
@@ -222,6 +223,7 @@ main section p {
     background-color: rgb(246, 246, 246);
     transform: scale(1.6);
     z-index: -2;
+    overflow-x: hidden;
 }
 
 .founder_intro,.founder_intro div,footer{
